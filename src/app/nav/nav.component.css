@@ -1,0 +1,19 @@
+.hoever:hover {
+    cursor: pointer;
+    background-color: cadetblue; 
+    color:  rgb(19, 32, 32);;
+}
+.bgDD {
+    color: white;
+   background-color: rgb(19, 32, 32);
+
+}
+.container3 {
+    color: rgb(19, 32, 32);
+   background-color: rgb(78, 110, 110);
+   font-weight: 500;
+
+}
+.fis {
+    background-color: blue;
+}
